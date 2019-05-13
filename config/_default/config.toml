@@ -1,27 +1,46 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "CleverSiteName.com"
+title = "fogo"
 theme = "hugo-flex"
+
 canonifyURLs = true
 buildDrafts = true
 
+enableRobotsTXT = false
+disableAliases = false
+
 [imaging]
-# Default resample filter used for resizing. Default is Box,
-# a simple and fast averaging filter appropriate for downscaling.
-# See https://github.com/disintegration/imaging
-resampleFilter = "box"
+    # Default resample filter used for resizing. Default is Box,
+    # a simple and fast averaging filter appropriate for downscaling.
+    # See https://github.com/disintegration/imaging
+    resampleFilter = "box"
 
-# Default JPEG quality setting. Default is 75.
-quality = 75
+    # Default JPEG quality setting. Default is 75.
+    quality = 75
 
-# Anchor used when cropping pictures.
-# Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
-# Smart Cropping is content aware and tries to find the best crop for each image.
-# Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-anchor = "smart"
+    # Anchor used when cropping pictures.
+    # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
+    # Smart Cropping is content aware and tries to find the best crop for each image.
+    # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+    anchor = "smart"
 
 [sitemap]
 
-changefreq = "monthly"
-filename = "sitemap.xml"
-priority = 0.5
+    changefreq = "monthly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+[params]
+
+    color = 'navy'
+    width = '42rem'  # Any length in CSS syntax
+    footer = "footer goes here"
+    rss = "member rss?"
+    disallow_search_engines = false # set robots.txt to disallow everything
+
+    [params.authors]
+        [params.authors.Forrest]
+            name = "Forrest Ledbetter"
+            homepage = "http://forrestledbetter.com"
+            github = "http://github.com/forrest321"
+            email = "forrest321@gmail.com"
