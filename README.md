@@ -1,6 +1,6 @@
 # fohugo
 ## Forrest's Hugo
-###### get it?
+##### <small>get it?</small>
 
 
 https://github.com/gohugoio/hugo
