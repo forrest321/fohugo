@@ -15,7 +15,3 @@ Hugo the tool is hosted on github, and [I've forked that as well](https://github
 * [Awesome Hugo](https://github.com/budparr/awesome-hugo)
 * [gohugo-theme-yinwang](https://github.com/chinanf-boy/gohugo-theme-yinwang)
 * [NHB source](https://github.com/hapkidobond/websitesource)
-ssh edit test\n
-testing auth again this time with better stuff
-lets try this one mo-gin
-worked. lol you were scared
