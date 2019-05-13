@@ -18,3 +18,4 @@ Hugo the tool is hosted on github, and [I've forked that as well](https://github
 ssh edit test\n
 testing auth again this time with better stuff
 lets try this one mo-gin
+worked. lol you were scared
