@@ -83,4 +83,5 @@ lint/tmp/
 
 themes/
 public/
-
+# generated
+resources/_gen/
