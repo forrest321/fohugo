@@ -17,3 +17,4 @@ Hugo the tool is hosted on github, and [I've forked that as well](https://github
 * [NHB source](https://github.com/hapkidobond/websitesource)
 ssh edit test\n
 testing auth again this time with better stuff
+lets try this one mo-gin
