@@ -3,18 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2019-05-12T19:24:41-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2019-05-12T19:24:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2019-05-12T19:24:41-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/about/</loc>
+    <lastmod>2019-05-12T19:24:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/home/</loc>
+    <lastmod>2019-05-12T19:24:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/meta/</loc>
+    <lastmod>2019-05-12T19:24:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/help/help/</loc>
+    <lastmod>2019-05-12T18:19:04-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/hugo/</loc>
+    <lastmod>2019-05-12T17:44:19-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2019-05-12T17:44:11-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/help/</loc>
+    <lastmod>2019-05-12T17:43:05-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-05-12T13:53:09-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/home/</loc>
+    <lastmod>2019-05-12T13:53:09-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/help/markdown/</loc>
+    <lastmod>2019-05-12T13:34:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/go/</loc>
+    <lastmod>2019-05-12T12:35:40-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

@@ -11,7 +11,7 @@
       <html lang="en-us">
         <head>
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <title>Categories RSS | CleverSiteName.com</title>
+          <title>Posts RSS | CleverSiteName.com</title>
           <link rel="stylesheet" href="http://example.org/css/base.min.c13d5885f80aad7e1920f98851dc7be78f7c575b1d4675c47017e471ca11e3fb.css" integrity="sha256-wT1YhfgKrX4ZIPmIUdx75498V1sdRnXEcBfkccoR4/s=" />
         </head>
         <body>
@@ -46,7 +46,7 @@
               <div class="u-padding">
                 <h2 class="Heading-title">
                   
-                  <a class="Heading-link u-clickable" href="http://example.org/categories/index.xml" rel="bookmark">Categories RSS</a>
+                  <a class="Heading-link u-clickable" href="http://example.org/posts/index.xml" rel="bookmark">Posts RSS</a>
                   
                 </h2>
                 
@@ -71,12 +71,12 @@
     </xsl:template>
   </xsl:stylesheet>
   <channel>
-    <title>Categories on CleverSiteName.com</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on CleverSiteName.com</description>
+    <title>Posts on CleverSiteName.com</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on CleverSiteName.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 19:24:41 -0500</lastBuildDate>
-    <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 17:44:11 -0500</lastBuildDate>
+    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

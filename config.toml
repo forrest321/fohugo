@@ -1,5 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "CleverSiteName.com"
-theme = "hugo-flex"
-canonifyURLs = true

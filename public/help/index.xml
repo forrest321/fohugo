@@ -11,7 +11,7 @@
       <html lang="en-us">
         <head>
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <title>Home RSS | CleverSiteName.com</title>
+          <title>Help RSS | CleverSiteName.com</title>
           <link rel="stylesheet" href="http://example.org/css/base.min.c13d5885f80aad7e1920f98851dc7be78f7c575b1d4675c47017e471ca11e3fb.css" integrity="sha256-wT1YhfgKrX4ZIPmIUdx75498V1sdRnXEcBfkccoR4/s=" />
         </head>
         <body>
@@ -46,7 +46,7 @@
               <div class="u-padding">
                 <h2 class="Heading-title">
                   
-                  <a class="Heading-link u-clickable" href="http://example.org/index.xml" rel="bookmark">Home RSS</a>
+                  <a class="Heading-link u-clickable" href="http://example.org/help/index.xml" rel="bookmark">Help RSS</a>
                   
                 </h2>
                 
@@ -71,13 +71,13 @@
     </xsl:template>
   </xsl:stylesheet>
   <channel>
-    <title>Home on CleverSiteName.com</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Home on CleverSiteName.com</description>
+    <title>Help on CleverSiteName.com</title>
+    <link>http://example.org/help/</link>
+    <description>Recent content in Help on CleverSiteName.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 13:53:09 -0500</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 17:43:05 -0500</lastBuildDate>
+    <atom:link href="http://example.org/help/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Help</title>
       <link>http://example.org/help/help/</link>
